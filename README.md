@@ -9,7 +9,7 @@
 - Git & GitHub | APIs | PHP | MySQL 
 
 ### 📌 Projects
-- 🔹 [E_mart](https://github.com/ShihabHasan15/E_mart): E-commerce Android App
+- 🔹 [My School](https://github.com/ShihabHasan15/My-School): School Management System App
 - 🔹 [Ocean Discovery](https://github.com/ShihabHasan15/ocean_discovery): NASA Space Apps Challenge App
 - 🔹 [Crypto Checker](https://github.com/ShihabHasan15/crypto_checker): Kotlin Crypto App
 
