@@ -11,7 +11,9 @@
 ### 📌 Projects
 - 🔹 [My School](https://github.com/ShihabHasan15/My-School): School Management System App
 - 🔹 [Ocean Discovery](https://github.com/ShihabHasan15/ocean_discovery): NASA Space Apps Challenge App
+- 🔹 [QR Scan](https://github.com/ShihabHasan15/qr_scan): QR and Barcode Scanner App (Available in Play store)
 - 🔹 [Crypto Checker](https://github.com/ShihabHasan15/crypto_checker): Kotlin Crypto App
+
 
 ### 📫 Contact Me
 - 📱 Phone: +8801903551267
