@@ -13,6 +13,7 @@
 - 🔹 [Ocean Discovery](https://github.com/ShihabHasan15/ocean_discovery): NASA Space Apps Challenge App
 - 🔹 [QR Scan](https://github.com/ShihabHasan15/qr_scan): QR and Barcode Scanner App (Available in Play store)
 - 🔹 [Crypto Checker](https://github.com/ShihabHasan15/crypto_checker): Kotlin Crypto App
+- 🔹 [Instagram Clone](https://github.com/ShihabHasan15/InstagramClone): Social Media App
 
 
 ### 📫 Contact Me
